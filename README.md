@@ -13,5 +13,6 @@ A program egy hobbiprojekt. Nem használható fel semmilyen hivatalos célra kü
 - gazdasági tervek készítéséhez,
 - hatósági eljárások során,
 - üzleti célra.
+
 Mondjuk nem hinném, hogy valaki C64-en szeretne hivatalos ügyeket intézni 2022-ben.
 Vice emulátorral teszteltem.
